@@ -16,4 +16,7 @@ license or rights to the assets.
 Permission is granted to display these assets as they naturally appear
 during gameplay of the Minecraft mod they are intended for.
 
+Any third-party assets included in this repository are provided under their CC0 dedication or public-domain status. 
+This license does not apply to those assets, and their original terms or public-domain status remain unaffected.
+
 Please respect these terms. Thank you.
