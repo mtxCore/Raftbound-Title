@@ -13,4 +13,7 @@ cached, and used automatically by authorized versions any published mod by mtxCo
 Access to this repository or its files does not grant any additional
 license or rights to the assets.
 
+Permission is granted to display these assets as they naturally appear
+during gameplay of the Minecraft mod they are intended for.
+
 Please respect these terms. Thank you.
