@@ -1,0 +1,17 @@
+{
+  "music.menu": {
+    "subtitle": "subtitles.raftbound.music.menu",
+    "sounds": [
+      { "name": "raftbound:music/01_forest_whisper_theme", "stream": true, "volume": 0.58 },
+      { "name": "raftbound:music/02_prologue_theme", "stream": true, "volume": 0.58 },
+      { "name": "raftbound:music/03_forget_me_not_looped", "stream": true, "volume": 0.58 },
+      { "name": "raftbound:music/04_cathedral_in_the_forest", "stream": true, "volume": 0.58 },
+      { "name": "raftbound:music/05_up_in_the_sky", "stream": true, "volume": 0.58 },
+      { "name": "raftbound:music/06_ruined_city_theme", "stream": true, "volume": 0.58 },
+      { "name": "raftbound:music/07_underwater_theme_ii", "stream": true, "volume": 0.58 },
+      { "name": "raftbound:music/08_space_arp", "stream": true, "volume": 0.58 },
+      { "name": "raftbound:music/09_exploration_theme", "stream": true, "volume": 0.58 },
+      { "name": "raftbound:music/10_underwater_theme", "stream": true, "volume": 0.58 }
+    ]
+  }
+}

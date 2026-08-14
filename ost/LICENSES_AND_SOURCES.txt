@@ -1,0 +1,25 @@
+Raftbound OST — source and license notes
+
+All tracks are listed as CC0/public domain on their OpenGameArt source pages.
+Attribution is not required under CC0, but retaining author credit is recommended.
+
+01_forest_whisper_theme.ogg — Forest Whisper Theme — Cleyton Kauffman — 1:22
+https://opengameart.org/content/forest-whisper-theme
+02_prologue_theme.ogg — Prologue Theme — Cleyton Kauffman — 1:22
+https://opengameart.org/content/prologue-theme
+03_forget_me_not_looped.ogg — Forget Me Not — Kistol — looped
+https://opengameart.org/content/forget-me-not
+04_cathedral_in_the_forest.ogg — Cathedral in the Forest — congusbongus — seamless loop
+https://opengameart.org/content/cathedral-in-the-forest-ambient-loop
+05_up_in_the_sky.ogg — Up in the Sky — Memoraphile / You're Perfect Studio — loopable
+https://opengameart.org/content/up-in-the-sky
+06_ruined_city_theme.ogg — Ruined City Theme — Cleyton Kauffman — 1:52, seamless loop
+https://opengameart.org/content/ruined-city-theme
+07_underwater_theme_ii.ogg — Underwater Theme II — Cleyton Kauffman — 1:45, seamless loop
+https://opengameart.org/content/underwater-theme-ii
+08_space_arp.ogg — Space Arp — Centurion_of_war — loopable
+https://opengameart.org/content/space-arp
+09_exploration_theme.ogg — Exploration Theme — Cleyton Kauffman — 2:14, seamless loop
+https://opengameart.org/content/exploration-theme
+10_underwater_theme.ogg — Underwater Theme — Cleyton Kauffman — looped
+https://opengameart.org/content/underwater-theme
